@@ -1,4 +1,4 @@
-## Hi there 👋 Kamron
+## Hi I'm 👋 Kamron
 
 <!--
 **azaadov/azaadov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
